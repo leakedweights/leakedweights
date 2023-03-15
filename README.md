@@ -6,5 +6,5 @@ I’m Kristóf, a Computer Engineering student at Budapest University of Technol
 ## Lambdas
 I am currently building [Lambdas](https://github.com/lambdastrade), a No-Code Algo Trading web application that allows you to create and deploy strategies using a flowchart-like visual interface.
 ## runtime_error
-Me and 4 others are building a [school project](https://github.com/RuntimeError-BME) for the course Software Project Laboratory in Java, according to RUP and Object Oriented design.
+Me and 4 others are building a [school project](https://github.com/RuntimeError-BME) for the course Software Project Laboratory in Java according to RUP and Object Oriented design.
 Side note: please don't cringe at the README content, ChatGPT made it.
